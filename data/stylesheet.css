@@ -1,0 +1,12 @@
+h1 { 
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+.break {text-align: center;}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
